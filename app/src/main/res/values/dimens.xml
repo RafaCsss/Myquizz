@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- menu -->
+
+    <dimen name="logo_width">270dp</dimen>
+    <dimen name="logo_margin_top">16dp</dimen>
+
+    <dimen name="button_width">280dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="button_margin_top">20dp</dimen>
+    <dimen name="button_text_size">22sp</dimen>
+
+    <!-- menu de niveles -->
+
+    <dimen name="menu_title_size">24sp</dimen>
+    <dimen name="menu_points_size">18sp</dimen>
+    <dimen name="menu_button_width">260dp</dimen>
+    <dimen name="menu_button_height">52dp</dimen>
+    <dimen name="menu_button_text_size">16sp</dimen>
+
+    <dimen name="menu_title_margin">24dp</dimen>
+    <dimen name="menu_points_margin">16dp</dimen>
+    <dimen name="menu_button_margin">16dp</dimen>
+
+    <!-- nivel 1 -->
+
+    <dimen name="card_size">110dp</dimen>
+    <dimen name="card_margin_horizontal">24dp</dimen>
+    <dimen name="card_margin_vertical">24dp</dimen>
+
+    <dimen name="level_title_size">24sp</dimen>
+    <dimen name="score_text_size">16sp</dimen>
+
+    <dimen name="check_button_width">220dp</dimen>
+    <dimen name="check_button_height">52dp</dimen>
+    <dimen name="check_button_text_size">16sp</dimen>
+
+    <!-- nivel 2 -->
+    <dimen name="level2_card_size">78dp</dimen>
+    <dimen name="level2_card_margin">6dp</dimen>
+
+
+    <!-- nivel 3 -->
+
+    <dimen name="level3_card_size">75dp</dimen>
+    <dimen name="level3_title_size">24sp</dimen>
+    <dimen name="level3_score_size">18sp</dimen>
+    <dimen name="level3_button_width">220dp</dimen>
+    <dimen name="level3_button_text_size">14sp</dimen>
+
+
+</resources>
